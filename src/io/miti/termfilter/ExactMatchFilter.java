@@ -28,8 +28,6 @@
 
 package io.miti.termfilter;
 
-import com.nexagis.termfilter.TermFilter;
-
 /**
  * Provide a filter for search terms that only
  * accepts exact matches.

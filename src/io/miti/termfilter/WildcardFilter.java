@@ -32,8 +32,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.StringTokenizer;
 
-import com.nexagis.termfilter.TermFilter;
-
 /**
  * Provide a filter for search terms that only
  * accepts matches where the term passed to accept()

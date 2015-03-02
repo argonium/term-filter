@@ -34,9 +34,6 @@ package io.miti.termfilter;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.nexagis.termfilter.FilterUtility;
-import com.nexagis.termfilter.TermFilter;
-
 /**
  * Provide a filter for search terms that only
  * accepts matches where the parameter to accept()

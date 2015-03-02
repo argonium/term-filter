@@ -30,8 +30,6 @@ package io.miti.termfilter;
 
 import java.util.regex.Pattern;
 
-import com.nexagis.termfilter.TermFilter;
-
 /**
  * Provide a filter for search terms that only
  * accepts matches where the term passed to accept()
